@@ -3,3 +3,11 @@
 .gitkeep
 .idea
 .working_space/
+Discovery/DNS/FUZZSUBS_CYFARE_1.txt
+Discovery/DNS/FUZZSUBS_CYFARE_2.txt
+Fuzzing/User-Agents/software-type-specific/web-browser.txt
+Miscellaneous/Words/Dutch-words.txt
+Passwords/Common-Credentials/Pwdb_top-10000000.txt
+Passwords/Leaked-Databases/rockyou-withcount.txt.tar.gz
+Passwords/Leaked-Databases/rockyou.txt.tar.gz
+Usernames/xato-net-10-million-usernames.txt
